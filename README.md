@@ -1,6 +1,6 @@
    # :house_with_garden:  **_Welcome to my profile_** :house_with_garden:
 ### :dolphin: Full name : Phạm Quang Luân
-### :school: University : University Of Information Technology (UIT)
+### :school: University : [University of Information Technology (UIT)](https://en.wikipedia.org/wiki/University_of_Information_Technology)
 ### :beginner:  Programming Languages : C++ , Python
 ### :seedling: Learning : Computer Science
 ### :airplane: Dream Job : CV Engineer 
