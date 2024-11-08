@@ -3,7 +3,7 @@
 ### :school: University : [University of Information Technology (UIT)](https://en.wikipedia.org/wiki/University_of_Information_Technology)
 ### :beginner:  Programming Languages : C++ , Python
 ### :seedling: Learning : Computer Science
-### :airplane: Dream Job : CV Engineer 
+### :airplane: Dream Job : CV Engineer
 ### :link: Contact : *_phamquangluan123abc@gmail.com_*
 
 
